@@ -1,4 +1,4 @@
-# SwiftNeuralNetwork
+# Swift Neural Network
 
 Simple Swift implementation of Neural Network. Any size of network can be created.
 
