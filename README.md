@@ -17,3 +17,7 @@ Teaches network with input and expected output
 nn.eval(input: [0.8, 0.75, 0.1, 0.01])
 ```
 Evaluates some input
+
+
+To do:
+- make it work on multiple threads and cores
